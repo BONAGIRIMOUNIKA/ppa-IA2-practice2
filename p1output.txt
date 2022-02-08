@@ -1,1 +1,7 @@
-
+GNU bash, version 4.4.20(1)-release (x86_64-pc-linux-gnu)
+gcc -g p1original.c
+ ./a.out
+enter the values:
+1
+2
+Area of triangle is ((1.000000*2.000000)/2))=1.000000:
