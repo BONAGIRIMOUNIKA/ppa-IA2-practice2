@@ -1,1 +1,5 @@
-
+ gcc -g p7final.c
+ ./a.out
+Enter base length: 7
+Enter altitude length: 8
+The area of triangle with base = 7.000000 and altitude = 8.000000 is : 28.000000
